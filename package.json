@@ -1,0 +1,30 @@
+{
+  "name": "thunkous",
+  "version": "1.0.0",
+  "description": "Monkeypatch that lets you easily turn any async function or method into a thunk",
+  "main": "thunkous.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/650Industries/thunkous.git"
+  },
+  "keywords": [
+    "thunk",
+    "thunkify",
+    "fibrous",
+    "async",
+    "co",
+    "thunks"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/650Industries/thunkous/issues"
+  },
+  "homepage": "https://github.com/650Industries/thunkous",
+  "dependencies": {
+    "thunkify": "^2.1.2"
+  }
+}
